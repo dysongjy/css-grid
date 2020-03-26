@@ -5,6 +5,11 @@
 
   Let's go through the important bits real quick
 */
+
+div {
+    outline: 1px solid black;
+}
+
 :root {
   --yellow: #ffc600;
   --black: #272727;
